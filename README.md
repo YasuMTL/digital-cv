@@ -1,4 +1,3 @@
-# Kangsong Kim, Android Developer
 **Phone**: 438-939-9773<br>
 **Email**: yasunari.k@hotmail.com<br>
 **LinkedIn**: https://www.linkedin.com/in/yasunari-kanemitsu-3357285a/<br>
@@ -37,7 +36,7 @@
 **Bachelor of Laws** (Course of Business Law Studies)<br>
 Kanazawa University - Kanazawa, Ishikawa, Japan (2009 - 2014)
 
-## 🗣️Languages
+## 💬Languages
 
 **French**: Advanced<br>
 **English**: Advanced<br>
