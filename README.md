@@ -1,4 +1,3 @@
-**Phone**: 438-939-9773<br>
 **Email**: yasunari.k@hotmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/yasunari-kanemitsu-3357285a/) / [GitHub](https://github.com/YasuMTL)<br>
 
