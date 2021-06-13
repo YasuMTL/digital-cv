@@ -48,7 +48,7 @@ Kanazawa University - Kanazawa, Ishikawa, Japan (2009 - 2014)
 ## Saezuri for Twitter [link](https://play.google.com/store/apps/details?id=com.yasu_k.saezuri)<br>
 App with Java. Enables you to send a tweet while avoiding wasting your time on the timeline.<br>
 API:
-- Twitter4j
+- [Twitter4j](https://twitter4j.org/en/index.html)
 - Material Design
 - Runtime permission check
 - AsyncTask<br>
@@ -69,7 +69,7 @@ App with Kotlin. Convert a currency into another to check its corresponding valu
 API:
 - Kotlin
 - Coroutine
-- Retrofit
+- [Retrofit](https://square.github.io/retrofit/)
 - OkHttp
 - LiveData
 - ViewModel<br>
