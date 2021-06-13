@@ -42,3 +42,40 @@ Kanazawa University - Kanazawa, Ishikawa, Japan (2009 - 2014)
 **English**: Advanced<br>
 **Japanese**: Native<br>
 **Spanish**: B1
+
+# Portfolio
+
+## Saezuri for Twitter [link](https://play.google.com/store/apps/details?id=com.yasu_k.saezuri)<br>
+App with Java. Enables you to send a tweet while avoiding wasting your time on the timeline.<br>
+API:
+- Twitter4j
+- Material Design
+- Runtime permission check
+- AsyncTask<br>
+
+## Harassment Recorder [link](https://play.google.com/store/apps/details?id=com.yasu_k.harassment_recorder)<br>
+App with Java. Capture a video with the date, timestamp and geolocation data, which can be 
+shared later with the help of ShareCompat.<br>
+API:
+- [Glide](https://github.com/bumptech/glide)
+- Runtime permission check
+- Preference Activity
+- ShareCompat
+- SQLite
+- MapView (Google Maps)<br>
+
+## Currency Converter [link](https://play.google.com/store/apps/details?id=com.yasu_k.currencyconverter)<br>
+App with Kotlin. Convert a currency into another to check its corresponding value.<br>
+API:
+- Kotlin
+- Coroutine
+- Retrofit
+- OkHttp
+- LiveData
+- ViewModel<br>
+
+## Video File Inventory [link](https://github.com/YasuMTL/repertoireFilms)<br>
+Desktop application with Java.
+Swing-made system that manages stored video files. Extracts a list of videos from a CSV file, 
+stores it in a database (SQLite), and performs the four basic functions (CRUD). The system is 
+also able to transfer files by copy-and-paste
