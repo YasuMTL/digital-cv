@@ -1,11 +1,11 @@
 **Email**: yasunari.k@hotmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/yasunari-kanemitsu-3357285a/) / [GitHub](https://github.com/YasuMTL)<br>
-___
+
 ## Profile
 - 4 months’ experience as a programmer
 - 3 apps published in the Google Play Store
 - Certificat en informatique appliquée at the Université de Montréal
-___
+
 ## 🖥️Work Experience (IT)
 
 ### Mobile Programmer at Xperio, Laval (since 2021)
@@ -25,7 +25,7 @@ ___
 - Submission of quote requests to suppliers;
 - Management of co-ownership’s syndicate members’ and real estate managers’ appointments;
 - Digitalization and classification of documents.
-___
+
 ## 👨‍🎓Education
 **Certificat en informatique appliquée** (GPA: 3.89)<br>
 [Université de Montréal](https://admission.umontreal.ca/programmes/certificat-en-informatique-appliquee/) - Montréal, Québec, Canada (Sep 2018 - dec 2020)
@@ -35,14 +35,14 @@ ___
 
 **Bachelor of Laws** (Course of Business Law Studies)<br>
 Kanazawa University - Kanazawa, Ishikawa, Japan (2009 - 2014)
-___
+
 ## 💬Languages
 
 **French**: Advanced<br>
 **English**: Advanced<br>
 **Japanese**: Native<br>
 **Spanish**: B1
-___
+
 # Portfolio
 
 ## Saezuri for Twitter [link](https://play.google.com/store/apps/details?id=com.yasu_k.saezuri)<br>
