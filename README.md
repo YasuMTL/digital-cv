@@ -1,6 +1,6 @@
 **Email**: yasunari.k@hotmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/yasunari-kanemitsu-3357285a/) / [GitHub](https://github.com/YasuMTL)<br>
-
+---
 ## Profile
 - 4 months’ experience as a programmer
 - 3 apps published in the Google Play Store
@@ -52,17 +52,6 @@ API:
 - Material Design
 - Runtime permission check
 - AsyncTask<br>
-
-## Harassment Recorder [link](https://play.google.com/store/apps/details?id=com.yasu_k.harassment_recorder)<br>
-App with Java. Capture a video with the date, timestamp and geolocation data, which can be 
-shared later with the help of ShareCompat.<br>
-API:
-- [Glide](https://github.com/bumptech/glide)
-- Runtime permission check
-- Preference Activity
-- ShareCompat
-- SQLite
-- MapView (Google Maps)<br>
 
 ## Currency Converter [link](https://play.google.com/store/apps/details?id=com.yasu_k.currencyconverter)<br>
 App with Kotlin. Convert a currency into another to check its corresponding value.<br>
