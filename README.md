@@ -1,7 +1,7 @@
 **Email**: yasunari.k@hotmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/yasunari-kanemitsu-3357285a/) / [GitHub](https://github.com/YasuMTL)<br>
 
-## Profile
+## :man: Profile
 - 4 months’ experience as a programmer
 - 3 apps published in the Google Play Store
 - Certificat en informatique appliquée at the Université de Montréal
@@ -43,9 +43,9 @@ Kanazawa University - Kanazawa, Ishikawa, Japan (2009 - 2014)
 **Japanese**: Native<br>
 **Spanish**: B1
 
-# Portfolio
+# :iphone: Portfolio
 
-## Saezuri for Twitter [link](https://play.google.com/store/apps/details?id=com.yasu_k.saezuri)<br>
+## :bird: Saezuri for Twitter [link](https://play.google.com/store/apps/details?id=com.yasu_k.saezuri)<br>
 App with Java. Enables you to send a tweet while avoiding wasting your time on the timeline.<br>
 API:
 - [Twitter4j](https://twitter4j.org/en/index.html)
@@ -53,7 +53,7 @@ API:
 - Runtime permission check
 - AsyncTask<br>
 
-## Currency Converter [link](https://play.google.com/store/apps/details?id=com.yasu_k.currencyconverter)<br>
+## :yen: :left_right_arrow: :dollar: Currency Converter [link](https://play.google.com/store/apps/details?id=com.yasu_k.currencyconverter)<br>
 App with Kotlin. Convert a currency into another to check its corresponding value.<br>
 API:
 - Kotlin
