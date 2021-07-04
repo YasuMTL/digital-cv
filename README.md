@@ -9,7 +9,7 @@ Email: yasunari.k@hotmail.com<br>
 ## 🖥️Work Experience (IT)
 
 ### Mobile Programmer at Xperio, Laval (since 2021)
-- Make some changes to a Clover’s semi-integrated mobile app (Android) ;
+- Maintain and update an Android app based on [Clover's semi-integration API](https://docs.clover.com/docs/clover-development-basics-semi) ;
 - Create an order panel app (Windows) which shows order numbers and tell if the order is ready or not yet (C++ builder);
 - Design some apps (Windows, iOS et Android) on C++ builder which communicate with a server
 (REST API) or another app of POS systems.
