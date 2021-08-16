@@ -2,8 +2,8 @@ Email: yasunari.k@hotmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/yasunari-kanemitsu-3357285a/) / [GitHub](https://github.com/YasuMTL)<br>
 
 ## 🧑Profile
-- 6 months’ experience as a programmer
-- 2 apps published in the Google Play Store
+- 7 months’ experience as a programmer
+- 3 apps published in the Google Play Store
 - Certificat en informatique appliquée at the Université de Montréal
 
 ## 🖥️Work Experience (IT)
@@ -62,6 +62,10 @@ API:
 - OkHttp
 - LiveData
 - ViewModel<br>
+
+## Dico Québécois [Google Play](https://play.google.com/store/apps/details?id=io.github.yasumtl.dicoquebecois)
+C'est un dictionnaire des expressions québécoises que j'ai rencontrées depuis que je suis arrivé à Montréal
+* The whole explanation is coming soon
 
 ## Video File Inventory [Github](https://github.com/YasuMTL/repertoireFilms)<br>
 Desktop application with Java.
