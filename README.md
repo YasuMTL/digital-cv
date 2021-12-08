@@ -2,7 +2,7 @@ Email: yasunari.k@hotmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/yasunari-kanemitsu-3357285a/) / [GitHub](https://github.com/YasuMTL)<br>
 
 ## 🧑Profile
-- 9 months’ experience as a programmer
+- 11 months’ experience as a programmer
 - 3 apps published in the Google Play Store
 - Certificat en informatique appliquée at the Université de Montréal
 
