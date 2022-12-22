@@ -8,7 +8,7 @@ Email: yasunari.k@hotmail.com<br>
 
 ## 🖥️Work Experience (IT)
 
-### Mobile Programmer at Xperio, Laval (since February 2021)
+### Mobile Programmer at Xperio, Laval (since Feb.2021-02 until Jul.2022)
 - Maintain and perform 150 updates on an Android POS app based on [Clover's semi-integration API](https://docs.clover.com/docs/clover-development-basics-semi) ;
 - Create an order panel app (Windows) which shows order numbers and tell if the order is ready or not yet (C++ builder);
 - Design some apps (Windows, iOS et Android) on C++ builder which communicate with a server
@@ -45,15 +45,12 @@ Kanazawa University - Kanazawa, Ishikawa, Japan (2009 - 2014)
 
 # 📱Portfolio
 
-## 🐦Saezuri for Twitter [Google Play](https://play.google.com/store/apps/details?id=com.yasu_k.saezuri)<br>
-App with Java. Enables you to send a tweet while avoiding wasting your time on the timeline.<br>
-API:
-- [Twitter4j](https://twitter4j.org/en/index.html)
-- Material Design
-- Runtime permission check
-- AsyncTask<br>
+## 🐦Saezuri for Twitter 
+[Google Play](https://play.google.com/store/apps/details?id=com.yasu_k.saezuri)<br>
+[Detail](https://github.com/YasuMTL/Tweeter)<br>
 
-## 💴↔️💵 Currency Converter [Google Play](https://play.google.com/store/apps/details?id=com.yasu_k.currencyconverter)<br>
+## 💴↔️💵 Currency Converter 
+[Google Play](https://play.google.com/store/apps/details?id=com.yasu_k.currencyconverter)<br>
 App with Kotlin. Convert a currency into another to check its corresponding value.<br>
 API:
 - Kotlin
@@ -63,11 +60,13 @@ API:
 - LiveData
 - ViewModel<br>
 
-## Dico Québécois [Google Play](https://play.google.com/store/apps/details?id=io.github.yasumtl.dicoquebecois)
+## Dico Québécois 
+[Google Play](https://play.google.com/store/apps/details?id=io.github.yasumtl.dicoquebecois)
 C'est un dictionnaire des expressions québécoises que j'ai rencontrées depuis que je suis arrivé à Montréal
 * The whole explanation is coming soon
 
-## Video File Inventory [Github](https://github.com/YasuMTL/repertoireFilms)<br>
+## Video File Inventory 
+[Github](https://github.com/YasuMTL/repertoireFilms)<br>
 Desktop application with Java.
 Swing-made system that manages stored video files. Extracts a list of videos from a CSV file, 
 stores it in a database (SQLite), and performs the four basic functions (CRUD). The system is 
