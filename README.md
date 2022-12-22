@@ -45,20 +45,15 @@ Kanazawa University - Kanazawa, Ishikawa, Japan (2009 - 2014)
 
 # 📱Portfolio
 
-## 🐦Saezuri for Twitter 
-[Google Play](https://play.google.com/store/apps/details?id=com.yasu_k.saezuri)<br>
+## 🐦Saezuri for Twitter
+A Twitter client app to send tweet using the API Twitter4j<br>
 [Detail](https://github.com/YasuMTL/Tweeter)<br>
+[Google Play](https://play.google.com/store/apps/details?id=com.yasu_k.saezuri)<br>
 
 ## 💴↔️💵 Currency Converter 
+Convert a currency into another to check its corresponding value.<br>
+[Detail](https://github.com/YasuMTL/CurrencyConverter)<br>
 [Google Play](https://play.google.com/store/apps/details?id=com.yasu_k.currencyconverter)<br>
-App with Kotlin. Convert a currency into another to check its corresponding value.<br>
-API:
-- Kotlin
-- Coroutine
-- [Retrofit](https://square.github.io/retrofit/)
-- OkHttp
-- LiveData
-- ViewModel<br>
 
 ## Dico Québécois 
 [Google Play](https://play.google.com/store/apps/details?id=io.github.yasumtl.dicoquebecois)
