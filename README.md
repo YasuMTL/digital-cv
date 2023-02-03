@@ -41,18 +41,20 @@ Kanazawa University - Kanazawa, Ishikawa, Japan (2009 - 2014)
 **French**: Advanced<br>
 **English**: Advanced<br>
 **Japanese**: Native<br>
-**Spanish**: B1
+**Spanish**: Intermediate<br>
+**German**: Beginner<br>
 
 # 📱Portfolio
 
 ## 🐦Saezuri for Twitter
 A Twitter client app to send tweet using the API Twitter4j<br>
-[Detail](https://github.com/YasuMTL/Tweeter)<br>
-[Google Play](https://play.google.com/store/apps/details?id=com.yasu_k.saezuri)<br>
+[☆Detail](https://github.com/YasuMTL/Tweeter)<br>
+[Old version on Google Play](https://play.google.com/store/apps/details?id=com.yasu_k.saezuri)<br>
+[New version on Google Play](https://play.google.com/store/apps/details?id=com.yasunari_k.saezuri)<br>
 
 ## 💴↔️💵 Currency Converter 
 Convert a currency into another to check its corresponding value.<br>
-[Detail](https://github.com/YasuMTL/CurrencyConverter)<br>
+[☆Detail](https://github.com/YasuMTL/CurrencyConverter)<br>
 [Google Play](https://play.google.com/store/apps/details?id=com.yasu_k.currencyconverter)<br>
 
 ## Dico Québécois 
