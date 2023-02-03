@@ -1,5 +1,5 @@
 Email: yasunari.k@hotmail.com<br>
-[LinkedIn](https://www.linkedin.com/in/yasunari-kanemitsu-3357285a/) / [GitHub](https://github.com/YasuMTL)<br>
+[LinkedIn](https://www.linkedin.com/in/kangsong-kim-3357285a/) / [GitHub](https://github.com/YasuMTL)<br>
 
 ## 🧑Profile
 - 15 months’ experience as a programmer
